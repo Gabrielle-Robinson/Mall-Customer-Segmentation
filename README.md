@@ -2,7 +2,7 @@
 Identification of marketing groups and analysis of a shopping customer segmentation
 
 # About the project
-Understanding the target customers for a marketing team and dividing the mall target market into approachable groups. Thus creating subsets of a market based on demographics behavioral criteria to better understand the target for marketing activities. This will be answered by identifying the best possible cluster using KMeans unsupervised machine learning algorithm to find the univariate, bivariate and multivariate clusters.  Once these clusters are identified, summary statistics will be perform on these to identify the best marketing group at the mall. The approch
+Understanding the target customers for a marketing team and dividing the mall target market into approachable groups. Thus creating subsets of a market based on demographics behavioral criteria to better understand the target for marketing activities. This will be answered by identifying the best possible cluster using KMeans unsupervised machine learning algorithm to find the univariate, bivariate and multivariate clusters. Once these clusters are identified, summary statistics will be perform on these to identify the best marketing group at the mall. The approch
 
 1. Perform exploratory data analysis:
 
